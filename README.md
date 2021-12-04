@@ -1,4 +1,10 @@
-# BootstrapTraining
+Application developed based on the book: "Angular Development with TypeScript, 2nd Edition". With an elevated version of the tools used:
+(In the book -> in the project)
+Angular 7 -> Angular 12
+Bootstrap 4 -> Bootstrap 5
+Popper.js -> @popperjs/core (very important for bootstrap support)
+
+Project created for the purpose of learning the most important elements of Angular. First commit contains initial version of project with components and introduction to routing. Description of the project will be updated.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.9.
 
